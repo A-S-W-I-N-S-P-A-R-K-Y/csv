@@ -1,0 +1,51 @@
+EMPLOYEE ID,NAME,GENDER,SALARY,EXPIRIENCE,JOB ROLE
+,,Male,75162.86,3,Software Engineer
+,,Female,51356.61,5,Data Analyst
+,,Female,57140.95,7,
+,,Female,,,
+5,Aswathi,Female,,,Marketing Specialist
+6,Devika,Female,,,Sales Executive
+7,Dhruv,Male,,,Human Resources Manager
+8,,Female,94301.11,7,
+9,,Male,97398.95,8,Customer Service Representative
+10,,Female,31992.8,8,Web Developer
+11,Isha,Female,108027.49,8,Network Administrator
+12,Jaya,Female,40296.87,9,Business Analyst
+13,Kavya,Female,44940.42,7,Content Writer
+14,Lakshmi,Female,33045.08,2,
+15,Meera,Female,80973.72,1,
+16,Nandana,Female,87202.31,9,
+17,Neelesh,Male,45620.21,1,
+18,Nikhil,Male,30118.62,2,
+19,Parvati,Female,60497.17,,
+20,Pooja,Female,,,
+21,Pranav,Male,,,Mechanical Engineer
+22,Radhika,Female,,3,Electrical Engineer
+23,Rahul,Male,,2,Medical Assistant
+24,Riya,,,1,Paralegal
+25,Rohit,,115791.18,1,Social Media Manager
+26,,,95327.25,1,Event Planner
+27,,,,1,Supply Chain Coordinator
+28,,,,1,
+29,Shreya,,,2,
+30,Sneha,,55308.55,,
+31,Sreeja,,67887.54,,
+32,Surya,Female,45710.91,,Chemist
+33,,Male,40753.85,,Training and Development Manager
+34,,Female,110344.91,1,Information Security Analyst
+35,,Male,94121.77,2,Systems Analyst
+36,,Female,77960.73,2,Software Tester
+37,,Female,114806.94,2,
+38,,Male,68476.89,2,
+39,,Male,58368.94,2,
+40,,Female,74546.98,3,
+41,,Male,103696.92,3,
+42,Aishwarya,Female,,,
+43,Anish,Male,,,Data Scientist
+44,Benoy,Male,,,Product Designer
+45,Indira,Female,,,IT Consultant
+46,Jayesh,Male,,8,Fashion Designer
+47,Ranjith,Male,,3,Art Director
+48,Shalini,Male,37075.88,,Customer Success Manager
+49,Siddharth,Male,47262.9,1,Policy Analyst
+50,Vasudha,Male,105688.63,9,Mobile App Developer
